@@ -1,5 +1,5 @@
 # landing_page
-# Landing Page Project
+# Landing Page the second Project of the front-end nano degree program
 
 ## Table of Contents
 
